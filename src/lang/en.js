@@ -1,5 +1,5 @@
 module.exports = {
   en: {
-    starwars: "may the force be with you all!"
+    starwars: "may the force be with you!"
      }
 };
