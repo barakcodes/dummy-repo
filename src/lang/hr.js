@@ -1,6 +1,1 @@
-
-module.exports = {
-  en: {
-    starwars: "a translated !"
-     }
-};
+module.exports = { hr: { starwars: "hr - may the force be with you all!" } };
