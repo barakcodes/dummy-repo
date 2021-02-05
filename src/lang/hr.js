@@ -1,6 +1,3 @@
-
 module.exports = {
-  en: {
-    starwars: "a translated !"
-     }
+  hr: { starwars: "a translated !", yoda: "hr - translate me we will" },
 };
