@@ -57,6 +57,7 @@ module.exports = {
       warning: "Warning",
       gray: "Gray",
       dark: "Dark",
+      dark: "Dark",
     },
   },
 };
