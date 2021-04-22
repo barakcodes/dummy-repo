@@ -1,5 +1,18 @@
 module.exports = {
   fr: {
+    auth: {
+      agree: "[translated] I agree to",
+      createAccount: "[translated] Create account",
+      createNewAccount: "[translated] Create New Account",
+      email: "[translated] Email",
+      keep_logged_in: "[translated] Keep me logged in",
+      login: "[translated] Login",
+      password: "[translated] Password",
+      recover_password: "[translated] Recover password",
+      reset_password: "[translated] Reset password",
+      sign_up: "[translated] Sign Up",
+      termsOfUse: "[translated] Terms of Use.",
+    },
     buttons: {
       "a-link": "[translated] Open EpicSpinners",
       advanced: "[translated] Buttons With Icons",
