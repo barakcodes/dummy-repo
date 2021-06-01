@@ -1,5 +1,5 @@
 module.exports = {
-  fr: {
+  bg: {
     auth: {
       agree: "[translated] I agree to",
       createAccount: "[translated] Create account",
